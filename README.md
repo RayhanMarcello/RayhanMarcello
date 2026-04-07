@@ -50,31 +50,9 @@ I am also familiar with modern frontend technologies and development tools, allo
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayhanMarcello&show_icons=true&theme=tokyonight" alt="Rayhan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanMarcello&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## Goals
-
-- Grow as a backend engineer
-- Build impactful and scalable software projects
-- Strengthen my skills in software architecture and system design
-- Contribute to collaborative and meaningful development projects
-
----
-
 ## Connect With Me
 
 - GitHub: [RayhanMarcello](https://github.com/RayhanMarcello)
 - Instagram : https://www.instagram.com/rayhanmarcello_/
 
----
 
