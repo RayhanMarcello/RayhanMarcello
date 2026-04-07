@@ -48,11 +48,5 @@ I am also familiar with modern frontend technologies and development tools, allo
 - Clean architecture and best practices
 - Production-ready deployment workflows
 
----
-
-## Connect With Me
-
-- GitHub: [RayhanMarcello](https://github.com/RayhanMarcello)
-- Instagram : https://www.instagram.com/rayhanmarcello_/
 
 
