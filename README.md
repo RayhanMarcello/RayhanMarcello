@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rayhan Marcello Ananda Purnomo </h1>
+<h1 align="center">I'm Rayhan Marcello Ananda Purnomo </h1>
 
 <p align="center">
   <b>3rd-year Informatics Student</b><br>
@@ -15,8 +15,6 @@
 
 I am a third-year Informatics student with a strong interest in **Backend Development**.  
 My main focus is building efficient and scalable applications using **Golang**, **TypeScript**, and **Python**.
-
-I am also familiar with modern frontend technologies and development tools, allowing me to work on both backend-heavy and full-stack projects when needed. I enjoy learning about system design, API development, databases, and containerized workflows.
 
 ---
 
@@ -36,17 +34,6 @@ I am also familiar with modern frontend technologies and development tools, allo
 - Work with SQL and NoSQL databases
 - Develop containerized applications using Docker
 - Use Git and GitHub for version control and collaboration
-- Explore modern web technologies for full-stack development
-
----
-
-## Currently Learning
-
-- Scalable backend architecture
-- Distributed systems and microservices
-- Database optimization
-- Clean architecture and best practices
-- Production-ready deployment workflows
-
+  
 
 
