@@ -21,8 +21,10 @@ My main focus is building efficient and scalable applications using **Golang**, 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,ts,python,js,react,vue,nodejs,express,docker,git,github,mysql,postgres,mongodb,redis" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,ts,python,js,react,vue,nodejs,express,docker,git,github,mysql,postgres,mongodb,redis,kubernetes,jenkins" />
   <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="48" alt="Cassandra"/>
+</p>
 </p>
 
 ---
