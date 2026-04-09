@@ -20,11 +20,30 @@ My main focus is building efficient and scalable applications using **Golang**, 
 
 ## Tech Stack
 
+## Tech Stack
+
 <p align="left">
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,ts,python,js,react,vue,nodejs,express,docker,git,github,mysql,postgres,mongodb,redis,kubernetes,jenkins" />
-  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="48" alt="Cassandra"/>
+  <img src="https://skillicons.dev/icons?i=go" height="48" />
+  <img src="https://skillicons.dev/icons?i=ts" height="48" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" />
+  <img src="https://skillicons.dev/icons?i=vue" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
+  <img src="https://skillicons.dev/icons?i=express" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker" height="48" />
 </p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="48" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" />
+  <img src="https://skillicons.dev/icons?i=redis" height="48" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="48" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="48" />
+  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="48" alt="Cassandra" />
 </p>
 
 ---
