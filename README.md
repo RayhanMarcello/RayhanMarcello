@@ -20,9 +20,7 @@ My main focus is building efficient and scalable applications using **Golang**, 
 
 ## Tech Stack
 
-## Tech Stack
-
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=go" height="48" />
   <img src="https://skillicons.dev/icons?i=ts" height="48" />
   <img src="https://skillicons.dev/icons?i=python" height="48" />
@@ -34,7 +32,7 @@ My main focus is building efficient and scalable applications using **Golang**, 
   <img src="https://skillicons.dev/icons?i=docker" height="48" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git" height="48" />
   <img src="https://skillicons.dev/icons?i=github" height="48" />
   <img src="https://skillicons.dev/icons?i=mysql" height="48" />
